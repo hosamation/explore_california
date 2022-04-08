@@ -1,0 +1,10 @@
+Demo/example
+
+.DS_Store
+*.zip
+*.gz
+log/*.loglog/*.log[0-9]
+assets/photoshop
+assets/videos/
+!assets/videow/tour_*.mp4
+access.log
