@@ -1,5 +1,5 @@
 # Explore California
 
-this is the practical side from course **Git Essential Training: The Basics** 
+This is the practical side from course **Git Essential Training: The Basics** 
 
-check main repo []()
+Check main repo [Git Essential Training: The Basics](https://github.com/hosamation/Git-Essential-Training-The-Basics)
